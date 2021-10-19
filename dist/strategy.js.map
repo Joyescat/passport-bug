@@ -1,0 +1,1 @@
+{"version":3,"file":"strategy.js","sourceRoot":"","sources":["../src/strategy.ts"],"names":[],"mappings":";;;AAAA,+CAAoD;AACpD,+DAAsD;AAEtD,MAAa,QAAS,SAAQ,IAAA,2BAAgB,EAAC,qCAAc,EAAE,MAAM,CAAC;IACpE;QACE,KAAK,EAAE,CAAC;IACV,CAAC;IAED,QAAQ,CAAC,OAAe;QACtB,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;QACrB,OAAO,OAAO,CAAC;IACjB,CAAC;CACF;AATD,4BASC"}
